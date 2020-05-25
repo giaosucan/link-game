@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="E:/Nguyen/freelancer_02/trunk/23.InAppPurchase/003_IMP/link/libs/adcolony.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Nguyen/freelancer_02/trunk/23.InAppPurchase/003_IMP/link/libs/amazon-ads-5.5.149.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/4000105/Downloads/Apps-SDK/Android/Ads/documentation/API-Reference/com/amazon/device/ads/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="E:/Nguyen/freelancer_02/trunk/23.InAppPurchase/003_IMP/link/libs/in-app-purchasing-1.0.20.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/4000105/Downloads/Apps-SDK/Android/InAppPurchasing/PreviousVersions/1.0/documentation/API-Reference/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

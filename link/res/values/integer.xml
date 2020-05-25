@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="shareHints">2</integer>
+    <integer name="videoHints">4</integer>
+    <integer name="purchase20hint">20</integer>
+    <integer name="purchase5hint">5</integer>
+    <integer name="interstitial_interval">5</integer>
+
+</resources>
